@@ -16,7 +16,7 @@ Además, implementa un sistema de gestión de tareas usando una clase `TaskManag
 
 ## Mockup
 
-Puedes encontrar una imagen del mockup dentro del repositorio con el nombre `mockup.png` o `mockup.jpg`, que muestra el diseño planeado de la interfaz.
+Puedes encontrar una imagen del mockup dentro del repositorio con el nombre `mockup.png` , que muestra el diseño planeado de la interfaz.
 
 ## Tecnologías usadas
 
